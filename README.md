@@ -1,6 +1,6 @@
 # Hardebusch Family Genealogy
 
-Welcome to the Hardebusch Family Genealogy repository. This project is a personal endeavor to trace and document the Hardebusch lineage using various genealogical tools and techniques. The repository contains a Gramps export of the family tree, as well as a live version available for viewing.
+Welcome to the Hardebusch Family Genealogy repository. This project is a personal endeavor to trace and document the Hardebusch lineage using various genealogical tools and techniques. The repository contains a Gramps export of the family tree.
 
 ## Contents
 
@@ -10,10 +10,7 @@ Welcome to the Hardebusch Family Genealogy repository. This project is a persona
 
 ## Using This Repository
 
-To explore the family tree, you can:
-
-1. **View the Live Version**: Simply click on the provided link to see the interactive family tree.
-2. **Download and Use Local Genealogy Software**: You can download the `.ged` or `.gramps` files and import them into your preferred genealogy software.
+To explore the family tree, you can download the `.ged` or `.gramps` files and import them into your preferred genealogy software.
 
 ## Contributing
 

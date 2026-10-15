@@ -8,10 +8,6 @@ Welcome to the Hardebusch Family Genealogy repository. This project is a persona
 - `Hardebusch.gramps`: This file is the export from Gramps, an open-source genealogy software. It contains all the detailed information about the family tree.
 - `README.md`: The file you are currently reading that provides an overview of the repository and its contents.
 
-## Live Version
-
-A live version of the family tree is available through a webtrees instance, an online genealogy application. This allows for easy viewing and interactive exploration of the family history. You can access it here: [https://webtrees.hardebusch.org/](https://webtrees.hardebusch.org/)
-
 ## Using This Repository
 
 To explore the family tree, you can:
